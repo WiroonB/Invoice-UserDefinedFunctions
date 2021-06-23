@@ -32,7 +32,7 @@ There are four different tasks completed using user-defined functions.
     returns the total price of the items.
   
     | **Item Choices** | **Cost** |	**Sales Tax** |	**Number Purchased** |
-    | ----------- | ----------- | ----------- |
+    | ----------- | ----------- | ----------- | ----------- |
     | Radio |	$213.00	|	10% |	2 |
     | Scanner |	$855.40 | 8% | 12 |
     | Grenade	|	$12.75 | 2%	|	100 |
